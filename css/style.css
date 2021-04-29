@@ -1,0 +1,46 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(233, 231, 231);
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    color: rgb(156, 17, 63);
+    font-size: 40px;
+    font-style: oblique;
+    text-shadow: 1px 2px 5px rgb(85, 82, 82);
+    text-align: center;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    box-shadow: 11px 10px 37px -2px rgb(153, 49, 84);
+    border-radius: 30px;
+    margin: auto;
+    display: block;
+}
+
+.changeColorButton {
+    color: rgb(156, 17, 63);
+}
+
+.quotation {
+    text-align: center;
+}
+
+.newQuotation {
+    text-align: center;
+    color: rgb(119, 8, 45);
+}

@@ -1,0 +1,28 @@
+.footer {
+    background-color: rgb(153, 49, 84);
+    padding-top: 20px;
+    font-size: 12px;
+    color: rgb(233, 231, 231);
+    border-radius: 20px;
+}
+
+.footer__link {
+    padding-top: 20px;
+    text-decoration: none;
+    color: rgb(65, 5, 25);
+}
+
+.footer__link:hover {
+    color: rgb(104, 103, 103);
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.footer__link:active {
+    color: rgb(73, 2, 131);
+    outline: none;
+}
+.footer__paragraph {
+    font-size: 9px;
+    padding-bottom: 20px;
+}
