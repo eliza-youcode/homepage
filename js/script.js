@@ -1,8 +1,8 @@
 console.log("Hello everyone !");
 
-let changeQuotationButton = document.querySelector(".changeQuotationButton");
-let quotation = document.querySelector(".quotation")
-let changeColorButton = document.querySelector(".changeColorButton");
+let changeQuotationButton = document.querySelector(".js-changeQuotationButton");
+let quotation = document.querySelector(".js-quotation")
+let changeColorButton = document.querySelector(".js-changeColorButton");
 
 
 

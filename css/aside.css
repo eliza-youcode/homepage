@@ -1,0 +1,29 @@
+.aside{
+    padding: 20px 0;
+    margin: 30px 20px 30px 20px;
+}
+
+.aside__header {
+    color: rgb(156, 17, 63);
+    font-style: oblique;
+    text-shadow: 1px 2px 5px rgb(85, 82, 82);
+    text-align: center;
+}
+
+.aside__paragraph {
+    text-align: center;
+    margin: 20px 0;
+    line-height: 1.3;
+}
+.aside__quotation {
+    text-align: center;
+}
+
+.aside__button {
+    color: rgb(156, 17, 63);
+}
+
+.newQuotation {
+    text-align: center;
+    color: rgb(119, 8, 45);
+}
