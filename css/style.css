@@ -13,3 +13,17 @@ html {
     padding: 20px;
     text-align: center;
 }
+.header {
+    color: rgb(156, 17, 63);
+    font-size: 40px;
+    font-style: oblique;
+    text-shadow: 1px 2px 5px rgb(85, 82, 82);
+}
+.image {
+    width: 200px;
+    height: 200px;
+    box-shadow: 11px 10px 37px -2px rgb(153, 49, 84);
+    border-radius: 30px;
+    margin: auto;
+    display: block;
+}
