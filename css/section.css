@@ -32,6 +32,7 @@
 }
 .section__paragraph--name {
     color: rgb(156, 17, 63);
+    margin: 30px 5px;
     font-size: 20px;
     font-weight: bold;
 }

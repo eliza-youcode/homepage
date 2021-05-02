@@ -14,7 +14,7 @@ changeQuotationButton.addEventListener("click", () => {
 });
 
 changeColorButton.addEventListener("click", () => {
-    quotation.classList.toggle("newQuotation");
+    quotation.classList.toggle("aside__button--color");
 });
 
 changeColorButton.addEventListener("click", () => {
