@@ -1,7 +1,9 @@
-# Currency conventer - application for the YouCode course
+# My own homepage - for the YouCode course
+
 
 ## Preview site:
-[Currency converter](https://eliza-youcode.github.io/currency_conventer/)
+
+[Homepage](https://eliza-youcode.github.io/homepage/)
 
 ## Table of contents:
 - [General info](#info)
@@ -9,16 +11,15 @@
 - [Usage](#usage)
 
 ## General info:
-This is a simply currency converter created to practise JavaScript in the form. The application convert entered value in PLN to EUR, USD and GBP.
+This is a simple homepage about myself created for practice HTML, CSS and Javascript.
+
+![Homepage](https://i.postimg.cc/pLZKLRWH/Animation.gif);
 
 ## Technologies:
 - HTML
 - CSS
 - BEM
-- ES6+
+- ES6+ features
 
 ## Usage:
-1. Type the value in PLN.
-2. Click on "Przelicz" 
-3. All the values in EUR, USD and GBP should be visible right now :)
-4. To reset the converter click "Resetuj"
+Click the link to read something about me :) 
