@@ -1,10 +1,10 @@
-# Eliza Śpionek - my homepage for the YouCode course
+# My own homepage for the YouCode course
 
-![Eliza](images/1.jpg)
 
-## Demo
+## Preview site:
 
-https://eliza-youcode.github.io/homepage/
+[Homepage](https://eliza-youcode.github.io/homepage/)
 
-## Description
+## Table of contents:
+- 
 
