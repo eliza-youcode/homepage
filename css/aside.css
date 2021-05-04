@@ -22,3 +22,7 @@
 .aside__button {
     color: rgb(156, 17, 63);
 }
+
+.aside__button--color {
+    color:rgb(119, 8, 45);
+}

@@ -11,6 +11,7 @@
     };
     const changeQuotationColor = () => {
         const quotation = document.querySelector(".js-quotation")
+        const changeColorButton = document.querySelector(".js-changeColorButton");
         quotation.classList.toggle("aside__button--color");
         changeColorButton.innerText = changeColorButton.innerText === "Zmień kolor cytatu" ? "Powrót do czarnego" : "Zmień kolor cytatu";
 
