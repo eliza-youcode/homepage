@@ -1,4 +1,4 @@
-# My own homepage for the YouCode course
+# My own homepage - for the YouCode course
 
 
 ## Preview site:
