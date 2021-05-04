@@ -13,6 +13,8 @@
 ## General info:
 This is a simple homepage about myself created for practice HTML, CSS and Javascript.
 
+! [Homepage](https://i.postimg.cc/pLZKLRWH/Animation.gif)
+
 ## Technologies:
 - HTML
 - CSS
