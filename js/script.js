@@ -6,7 +6,6 @@
         const quotation = document.querySelector(".js-quotation")
         const quotationDisnay = quotation.innerHTML;
         const quotationLarson = "<i>Poświęcaj tyle czasu na ulepszanie siebie,<br> byś nie miał go na krytykę innych.</i><br> <p>- Christian D. Larson</p>";
-
         quotation.innerHTML = quotation.innerHTML === quotationDisnay ? quotationLarson : quotationDisnay;
     };
     const changeQuotationColor = () => {
