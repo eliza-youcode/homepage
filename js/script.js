@@ -18,11 +18,12 @@
     const init = () => {
         const changeQuotationButton = document.querySelector(".js-changeQuotationButton");
         changeQuotationButton.addEventListener("click", changeQuotation);
+
         const changeColorButton = document.querySelector(".js-changeColorButton");
         changeColorButton.addEventListener("click", changeQuotationColor);
-        welcome();
-    }
 
+    }
+    welcome();
     init();
 
 }
